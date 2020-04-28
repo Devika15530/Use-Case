@@ -121,5 +121,15 @@ D:\Use Case\Notifications\NotificationService\bin\Debug\netcoreapp3.1\ru\Microso
 D:\Use Case\Notifications\NotificationService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Use Case\Notifications\NotificationService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Use Case\Notifications\NotificationService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Use Case\Notifications\NotificationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Use Case\Notifications\NotificationService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Use Case\Notifications\NotificationService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Use Case\Notifications\NotificationService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Use Case\Notifications\NotificationService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Use Case\Notifications\NotificationService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Use Case\Notifications\NotificationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Use Case\Notifications\NotificationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Use Case\Notifications\NotificationService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Use Case\Notifications\NotificationService\obj\Debug\netcoreapp3.1\NotificationService.csproj.CoreCompileInputs.cache
+D:\Use Case\Notifications\NotificationService\obj\Debug\netcoreapp3.1\NotificationService.MvcApplicationPartsAssemblyInfo.cs
 D:\Use Case\Notifications\NotificationService\obj\Debug\netcoreapp3.1\NotificationService.MvcApplicationPartsAssemblyInfo.cache
